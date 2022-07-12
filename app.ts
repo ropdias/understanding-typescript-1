@@ -1,16 +1,12 @@
-function add(n1: number, n2: number, showResult: boolean, phrase: string) {
-  const result = n1 + n2;
-  if (showResult) {
-    console.log(phrase + result);
-  } else {
-    return result;
-  }
-}
+// const person: {
+//   name: string;
+//   age: number;
+// } = {
+// You can assign like the above lines but TypeScript can infer the type
+// So it's a better practice to just write like that:
+const person = {
+  name: "Maximilian",
+  age: 30,
+};
 
-let number1: number;
-number1 = 5;
-const number2 = 2.8;
-const printResult = true;
-let resultPhrase = "Result is: ";
-
-add(number1, number2, printResult, resultPhrase);
+console.log(person.name);

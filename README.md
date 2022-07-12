@@ -15,7 +15,7 @@ Section 2 (TypeScript Basics & Basic Types) covered:
 - [x] Important: Type Casing
 - [x] Working with Numbers, Strings & Booleans
 - [x] Type Assignment & Type Inference
-- [ ] Object Types
+- [x] Object Types
 - [ ] Nested Objects & Types
 - [ ] Arrays Types
 - [ ] Working with Tuples
