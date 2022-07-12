@@ -10,8 +10,8 @@ Section 1 (Getting Started) covered:
 
 Section 2 (TypeScript Basics & Basic Types) covered:
 
-- [ ] Using Types
-- [ ] TypeScript Types vs JavaScript Types
+- [x] Using Types
+- [x] TypeScript Types vs JavaScript Types
 - [ ] Important: Type Casing
 - [ ] Working with Numbers, Strings & Booleans
 - [ ] Type Assignment & Type Inference
