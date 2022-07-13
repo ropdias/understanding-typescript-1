@@ -39,6 +39,7 @@ const person = {
 // person.role[1] = 10; // Tuple type can catch this error
 // person.role = [0, 'admin', 'user']; // Tuple type can catch this error
 
+// let favoriteActivities: any[]; AVOID any types whenever you can
 let favoriteActivities: string[];
 favoriteActivities = ['Sports'];
 

@@ -20,7 +20,7 @@ Section 2 (TypeScript Basics & Basic Types) covered:
 - [x] Arrays Types
 - [x] Working with Tuples
 - [x] Working with Enums
-- [ ] The "any" Type
+- [x] The "any" Type
 - [ ] Union Types
 - [ ] Literal Types
 - [ ] Type Aliases / Custom Types
