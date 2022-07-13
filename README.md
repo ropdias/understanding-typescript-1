@@ -29,7 +29,7 @@ Section 2 (TypeScript Basics & Basic Types) covered:
 - [x] Functions as Types
 - [x] Function Types & Callbacks
 - [x] The "unknown" Type
-- [ ] The "never" Type
+- [x] The "never" Type
 
 
 More info: https://www.udemy.com/course/understanding-typescript/
