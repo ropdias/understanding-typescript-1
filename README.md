@@ -25,8 +25,8 @@ Section 2 (TypeScript Basics & Basic Types) covered:
 - [x] Literal Types
 - [x] Type Aliases / Custom Types
 - [x] Type Aliases & Object Types
-- [ ] Function Return Types & "void"
-- [ ] Functions as Types
+- [x] Function Return Types & "void"
+- [x] Functions as Types
 - [ ] Function Types & Callbacks
 - [ ] The "unknown" Type
 - [ ] The "never" Type
