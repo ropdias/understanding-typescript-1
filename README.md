@@ -19,7 +19,7 @@ Section 2 (TypeScript Basics & Basic Types) covered:
 - [x] Nested Objects & Types
 - [x] Arrays Types
 - [x] Working with Tuples
-- [ ] Working with Enums
+- [x] Working with Enums
 - [ ] The "any" Type
 - [ ] Union Types
 - [ ] Literal Types
