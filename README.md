@@ -22,9 +22,9 @@ Section 2 (TypeScript Basics & Basic Types) covered:
 - [x] Working with Enums
 - [x] The "any" Type
 - [x] Union Types
-- [ ] Literal Types
-- [ ] Type Aliases / Custom Types
-- [ ] Type Aliases & Object Types
+- [x] Literal Types
+- [x] Type Aliases / Custom Types
+- [x] Type Aliases & Object Types
 - [ ] Function Return Types & "void"
 - [ ] Functions as Types
 - [ ] Function Types & Callbacks
